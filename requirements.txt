@@ -6,3 +6,4 @@ google-generativeai
 twstock
 beautifulsoup4
 requests
+FinMind
